@@ -1,0 +1,778 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.1)  15 SEP 2016 17:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**test.pdf
+(./test.pdf
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 9
+      0 obj
+? 
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+l.3 9
+      0 obj
+? 
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Missing character: There is no x in font nullfont!
+Missing character: There is no ^^9c in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Text line contains an invalid character.
+l.6 x^^9c�]^^G
+                X^^T��?S¶�²t^^94²^^83^^KJg^^A^^U^^P^^U¤Y^^Q^^T��...
+
+? 
+Missing character: There is no X in font nullfont!
+! Text line contains an invalid character.
+l.6 x^^9c�]^^GX^^T
+                    ��?S¶�²t^^94²^^83^^KJg^^A^^U^^P^^U¤Y^^Q^^T��...
+
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no ? in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no ² in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ^^94 in font nullfont!
+Missing character: There is no ² in font nullfont!
+Missing character: There is no ^^83 in font nullfont!
+! Text line contains an invalid character.
+l.6 x^^9c�]^^GX^^T��?S¶�²t^^94²^^83^^K
+                                                 Jg^^A^^U^^P^^U¤Y^^Q^^T��...
+
+? 
+Missing character: There is no J in font nullfont!
+Missing character: There is no g in font nullfont!
+! Text line contains an invalid character.
+l.6 ...�]^^GX^^T��?S¶�²t^^94²^^83^^KJg^^A
+                                                  ^^U^^P^^U¤Y^^Q^^T�ф^^9...
+
+? 
+! Text line contains an invalid character.
+l.6 ...^GX^^T��?S¶�²t^^94²^^83^^KJg^^A^^U
+                                                  ^^P^^U¤Y^^Q^^T�ф^^95]^...
+
+? 
+! Text line contains an invalid character.
+l.6 ...^^T��?S¶�²t^^94²^^83^^KJg^^A^^U^^P
+                                                  ^^U¤Y^^Q^^T�ф^^95]^^D�...
+
+? 
+! Text line contains an invalid character.
+l.6 ...��?S¶�²t^^94²^^83^^KJg^^A^^U^^P^^U
+                                                  ¤Y^^Q^^T�ф^^95]^^D¥¬...
+
+? 
+Missing character: There is no ¤ in font nullfont!
+Missing character: There is no Y in font nullfont!
+! Text line contains an invalid character.
+l.6 ...?S¶�²t^^94²^^83^^KJg^^A^^U^^P^^U¤Y^^Q
+                                                  ^^T�ф^^95]^^D¥¬°^^80...
+
+? 
+! Text line contains an invalid character.
+l.6 ...��²t^^94²^^83^^KJg^^A^^U^^P^^U¤Y^^Q^^T
+                                                  �ф^^95]^^D¥¬°^^80^^9d"
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no ф in font nullfont!
+Missing character: There is no ^^95 in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Text line contains an invalid character.
+l.6 ...^^83^^KJg^^A^^U^^P^^U¤Y^^Q^^T�ф^^95]^^D
+                                                  ¥¬°^^80^^9d"
+? 
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no ¬ in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no ^^80 in font nullfont!
+Missing character: There is no ^^9d in font nullfont!
+Missing character: There is no " in font nullfont!
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Missing character: There is no b in font nullfont!
+Missing character: There is no ^^8b in font nullfont!
+Missing character: There is no ^^9d in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.7 b^^8b^^9d¨1�^^T
+                      k�"�ޣ^^89^^89-^^9aXb�h4^^89=�^^Z��^^99م^...
+
+? 
+Missing character: There is no k in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no ޣ in font nullfont!
+Missing character: There is no ^^89 in font nullfont!
+Missing character: There is no ^^89 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no ^^9a in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ^^89 in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.7 ...^Tk�"�ޣ^^89^^89-^^9aXb�h4^^89=�^^Z
+                                                  ��^^99م^^80®/��K...
+
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no ^^99 in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ^^80 in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no o in font nullfont!
+! Text line contains an invalid character.
+l.7 ...=�^^Z��^^99م^^80®/��K��o^^?
+                                                  ����s�=·߹3»²...
+
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no · in font nullfont!
+Missing character: There is no ߹ in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ² in font nullfont!
+Missing character: There is no @ in font nullfont!
+! Text line contains an invalid character.
+l.7 ...��K��o^^?����s�=·߹3»²@^^@
+                                                  ^^80=^^R
+? 
+Missing character: There is no ^^80 in font nullfont!
+Missing character: There is no = in font nullfont!
+! Text line contains an invalid character.
+l.7 ...�o^^?����s�=·߹3»²@^^@^^80=^^R
+                                                  
+? 
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Missing character: There is no I in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no ٢ in font nullfont!
+! Text line contains an invalid character.
+l.8 I±�=»7<٢^^E
+                    ^^98�^^G�8®{l\<´¥¶^^A¼^^]^^85Vnݓ^^R^^93^^E¡�...
+
+? 
+Missing character: There is no ^^98 in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.8 I±�=»7<٢^^E^^98�^^G
+                              �8®{l\<´¥¶^^A¼^^]^^85Vnݓ^^R^^93^^E¡�...
+
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no l in font nullfont!
+! Undefined control sequence.
+l.8 I±�=»7<٢^^E^^98�^^G�8®{l\<
+                                        ´¥¶^^A¼^^]^^85Vnݓ^^R^^93^^E¡�...
+
+? 
+Missing character: There is no ´ in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+! Text line contains an invalid character.
+l.8 I±�=»7<٢^^E^^98�^^G�8®{l\<´¥¶^^A
+                                                 ¼^^]^^85Vnݓ^^R^^93^^E¡�...
+
+? 
+Missing character: There is no ¼ in font nullfont!
+! Text line contains an invalid character.
+l.8 ...»7<٢^^E^^98�^^G�8®{l\<´¥¶^^A¼^^]
+                                                  ^^85Vnݓ^^R^^93^^E¡��...
+
+? 
+Missing character: There is no ^^85 in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ݓ in font nullfont!
+! Text line contains an invalid character.
+l.8 ...98�^^G�8®{l\<´¥¶^^A¼^^]^^85Vnݓ^^R
+                                                  ^^93^^E¡��^^XN�pX�...
+
+? 
+Missing character: There is no ^^93 in font nullfont!
+! Text line contains an invalid character.
+l.8 ...G�8®{l\<´¥¶^^A¼^^]^^85Vnݓ^^R^^93^^E
+                                                  ¡��^^XN�pX��^^A...
+
+? 
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.8 ...´¥¶^^A¼^^]^^85Vnݓ^^R^^93^^E¡��^^X
+                                                  N�pX��^^Aї<.·�p-...
+
+? 
+Missing character: There is no N in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.8 ...^85Vnݓ^^R^^93^^E¡��^^XN�pX��^^A
+                                                  ї<.·�p-^^86��II�...
+
+? 
+Missing character: There is no ї in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no · in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no ^^86 in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no Q in font nullfont!
+! Text line contains an invalid character.
+l.8 ...��^^Aї<.·�p-^^86��II�1¸£�Q^^@
+                                                  �^^T^^@jkbr`p�^^Ic^^@^...
+
+? 
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.8 ...�<.·�p-^^86��II�1¸£�Q^^@�^^T
+                                                  ^^@jkbr`p�^^Ic^^@^^88S^^...
+
+? 
+! Text line contains an invalid character.
+l.8 ...·�p-^^86��II�1¸£�Q^^@�^^T^^@
+                                                  jkbr`p�^^Ic^^@^^88S^^X^^...
+
+? 
+Missing character: There is no j in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no c in font nullfont!
+! Text line contains an invalid character.
+l.8 ...�II�1¸£�Q^^@�^^T^^@jkbr`p�^^Ic^^@
+                                                  ^^88S^^X^^9f>06!Us{\.^^80X...
+
+? 
+Missing character: There is no ^^88 in font nullfont!
+Missing character: There is no S in font nullfont!
+! Text line contains an invalid character.
+l.8 ...�£�Q^^@�^^T^^@jkbr`p�^^Ic^^@^^88S^^X
+                                                  ^^9f>06!Us{\.^^80X^^B�;^...
+
+? 
+Missing character: There is no ^^9f in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no s in font nullfont!
+LaTeX Font Info:    Try loading font information for +cmr on input line 8.
+LaTeX Font Info:    No file cmr.fd. on input line 8.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 8.
+
+! Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.8 ...^@jkbr`p�^^Ic^^@^^88S^^X^^9f>06!Us{\.^^80
+                                                  X^^B�;^^9f^^91«P+^^88ĩ...
+
+? 
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 8.
+
+Missing character: There is no ^^80 in font cmr10!
+Missing character: There is no ^^80 in font cmr10!
+Missing character: There is no X in font nullfont!
+! Text line contains an invalid character.
+l.8 ...br`p�^^Ic^^@^^88S^^X^^9f>06!Us{\.^^80X^^B
+                                                  �;^^9f^^91«P+^^88ĩ^^@�...
+
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ^^9f in font nullfont!
+Missing character: There is no ^^91 in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no ^^88 in font nullfont!
+Missing character: There is no ĩ in font nullfont!
+! Text line contains an invalid character.
+l.8 ...f>06!Us{\.^^80X^^B�;^^9f^^91«P+^^88ĩ^^@
+                                                  ¹^^98^^9e^^X^^94Q¬a^^Fº...
+
+? 
+Missing character: There is no ¹ in font nullfont!
+Missing character: There is no ^^98 in font nullfont!
+Missing character: There is no ^^9e in font nullfont!
+! Text line contains an invalid character.
+l.8 ...0X^^B�;^^9f^^91«P+^^88ĩ^^@¹^^98^^9e^^X
+                                                  ^^94Q¬a^^Fºg�^^C^^94�...
+
+? 
+Missing character: There is no ^^94 in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no ¬ in font nullfont!
+Missing character: There is no a in font nullfont!
+! Text line contains an invalid character.
+l.8 ...9f^^91«P+^^88ĩ^^@¹^^98^^9e^^X^^94Q¬a^^F
+                                                  ºg�^^C^^94���L�...
+
+? 
+Missing character: There is no º in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.8 ...+^^88ĩ^^@¹^^98^^9e^^X^^94Q¬a^^Fºg�^^C
+                                                  ^^94���L��1q7=^^...
+
+? 
+Missing character: There is no ^^94 in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no = in font nullfont!
+! Text line contains an invalid character.
+l.8 ...Q¬a^^Fºg�^^C^^94���L��1q7=^^@
+                                                  ����a^^8aB58^^82^^...
+
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ^^8a in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no ^^82 in font nullfont!
+! Text line contains an invalid character.
+l.8 ...��L��1q7=^^@����a^^8aB58^^82^^Y
+                                                  �'G^^?^^92a9£3¿|�^^@...
+
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no G in font nullfont!
+! Text line contains an invalid character.
+l.8 ...�1q7=^^@����a^^8aB58^^82^^Y�'G^^?
+                                                  ^^92a9£3¿|�^^@`�z�...
+
+? 
+Missing character: There is no ^^92 in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ¿ in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.8 ...��a^^8aB58^^82^^Y�'G^^?^^92a9£3¿|�^^@
+                                                  `�z��<K^^99;��^^...
+
+? 
+Missing character: There is no ` in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no ^^99 in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.8 ...92a9£3¿|�^^@`�z��<K^^99;��^^X
+                                                  o^^8c³½^^E^^90¶"K¥P^^9...
+
+? 
+Missing character: There is no o in font nullfont!
+Missing character: There is no ^^8c in font nullfont!
+Missing character: There is no ³ in font nullfont!
+Missing character: There is no ½ in font nullfont!
+! Text line contains an invalid character.
+l.8 ...�^^@`�z��<K^^99;��^^Xo^^8c³½^^E
+                                                  ^^90¶"K¥P^^9eӌ^^98^^81�...
+
+? 
+Missing character: There is no ^^90 in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ^^9e in font nullfont!
+Missing character: There is no ӌ in font nullfont!
+Missing character: There is no ^^98 in font nullfont!
+Missing character: There is no ^^81 in font nullfont!
+Missing character: There is no ¾ in font nullfont!
+! Text line contains an invalid character.
+l.8 ...Xo^^8c³½^^E^^90¶"K¥P^^9eӌ^^98^^81¾^^F
+                                                  £}�,TX'^^99'cx.^^86=²r...
+
+? 
+Missing character: There is no £ in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ^^99 in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ^^86 in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ² in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.8 ...�}�,TX'^^99'cx.^^86=²r5£����^^A
+                                                  �0^^@¡KN~^^86Bk«�^^V...
+
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Text line contains an invalid character.
+l.8 ...X'^^99'cx.^^86=²r5£����^^A�0^^@
+                                                  ¡KN~^^86Bk«�^^V`^^\�...
+
+? 
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no ^^86 in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.8 ...£����^^A�0^^@¡KN~^^86Bk«�^^V
+                                                  `^^\�/P�*F©�^^^�6...
+
+? 
+Missing character: There is no ` in font nullfont!
+! Text line contains an invalid character.
+l.8 ...����^^A�0^^@¡KN~^^86Bk«�^^V`^^\
+                                                  �/P�*F©�^^^�6h¿^...
+
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no � in font nullfont!
+! Text line contains an invalid character.
+l.8 ...^@¡KN~^^86Bk«�^^V`^^\�/P�*F©�^^^
+                                                  �6h¿^^I�<E®ª���
+? 
+Missing character: There is no � in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ¿ in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Missing character: There is no ^^80 in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.9 ^^80J�Ct^
+               ^^9d_¨э^^B´^^?[�ƫ^^KT�sc�b�5lỳm[^^9e`�^^_º�...
+
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+! Text line contains an invalid character.
+l.9 ^^80J�Ct^^^9d_¨э^^B
+                           ´^^?[�ƫ^^KT�sc�b�5lỳm[^^9e`�^^_º�...
+
+? 
+! Text line contains an invalid character.
+l.9 ^^80J�Ct^^^9d_¨э^^B´^^?
+                                [�ƫ^^KT�sc�b�5lỳm[^^9e`�^^_º�...
+
+? 
+! Text line contains an invalid character.
+l.9 ^^80J�Ct^^^9d_¨э^^B´^^?[�ƫ^^K
+                                         T�sc�b�5lỳm[^^9e`�^^_º�...
+
+? 
+! Text line contains an invalid character.
+l.9 ...^^?[�ƫ^^KT�sc�b�5lỳm[^^9e`�^^_
+                                                  º�~˪�}p^^V^^B^^8bOr^...
+
+? 
+! Extra }, or forgotten $.
+l.9 ...T�sc�b�5lỳm[^^9e`�^^_º�~˪�}
+                                                  p^^V^^B^^8bOr^^92^^_±��...
+
+? 
+! Text line contains an invalid character.
+l.9 ...sc�b�5lỳm[^^9e`�^^_º�~˪�}p^^V
+                                                  ^^B^^8bOr^^92^^_±��³...
+
+? 
+! Text line contains an invalid character.
+l.9 ...��b�5lỳm[^^9e`�^^_º�~˪�}p^^V^^B
+                                                  ^^8bOr^^92^^_±��³�...
+
+? 
+! Text line contains an invalid character.
+l.9 ...^^9e`�^^_º�~˪�}p^^V^^B^^8bOr^^92^^_
+                                                  ±��³��}º��^...
+
+? 
+! Extra }, or forgotten $.
+l.9 ...˪�}p^^V^^B^^8bOr^^92^^_±��³��}
+                                                  º��^^\�^^U�9hk^^F...
+
+? 
+! Emergency stop.
+l.9 ...˪�}p^^V^^B^^8bOr^^92^^_±��³��}
+                                                  º��^^\�^^U�9hk^^F...
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 15 strings out of 493638
+ 120 string characters out of 6144793
+ 53563 words of memory out of 5000000
+ 3515 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 18i,2n,16p,277b,93s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
