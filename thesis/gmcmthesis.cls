@@ -41,7 +41,7 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 
 \RequirePackage{fancyhdr}
 \pagestyle{fancy}
-\fancyfoot[C]{--~\thepage~--}
+\fancyfoot[C]{-~\thepage~-}
 
 % 页面布局
 \RequirePackage{geometry}

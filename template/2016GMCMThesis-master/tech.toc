@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1.}问题重述}{6}{section.1}
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}引言}{6}{subsection.1.1}
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题的提出}{6}{subsection.1.2}
+\contentsline {section}{\numberline {2.}模型的假设}{6}{section.2}
+\contentsline {section}{\numberline {3.}符号说明}{7}{section.3}
+\contentsline {section}{\numberline {4.}问题分析}{7}{section.4}
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一分析}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二分析}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三分析}{7}{subsection.4.3}
+\contentsline {section}{\numberline {5.}参考文献}{8}{section.5}
+\contentsline {section}{\numberline {附录A}我的 MATLAB 源程序}{9}{section.1}

@@ -98,7 +98,7 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 % 每行缩进两个汉字
 \setlength\parindent{2em}
 % 设置字体
-\setmainfont{Times New Roman}
+\setmainfont{song}
 \setmonofont{Courier New}
 \setsansfont{Arial}
 

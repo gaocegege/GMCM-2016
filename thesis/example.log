@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.1)  15 SEP 2016 17:36
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.1)  15 SEP 2016 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1111,6 +1111,17 @@ File: ctex-fontset-mac.def 2016/02/02 v2.3 Mac OS X fonts definition (CTEX)
 )) (/usr/local/texlive/2015/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2016/02/02 v2.3 Configuration file (CTEX)
 )
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip59
+\f@ncyO@elh=\skip60
+\f@ncyO@erh=\skip61
+\f@ncyO@olh=\skip62
+\f@ncyO@orh=\skip63
+\f@ncyO@elf=\skip64
+\f@ncyO@erf=\skip65
+\f@ncyO@olf=\skip66
+\f@ncyO@orf=\skip67
+)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -1137,7 +1148,7 @@ Package ifvtex Info: VTeX not detected.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/03 v2.15a AMS math features
-\@mathmargin=\skip59
+\@mathmargin=\skip68
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -1187,8 +1198,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \totwidth@=\dimen187
 \lineht@=\dimen188
 \@envbody=\toks23
-\multlinegap=\skip60
-\multlinetaggap=\skip61
+\multlinegap=\skip69
+\multlinetaggap=\skip70
 \mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2735.
 LaTeX Info: Redefining \] on input line 2736.
@@ -1235,8 +1246,8 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen189
 \extrarowheight=\dimen190
 \NC@list=\toks25
-\extratabsurround=\skip62
-\backup@length=\skip63
+\extratabsurround=\skip71
+\backup@length=\skip72
 )
 \TX@col@width=\dimen191
 \TX@old@table=\dimen192
@@ -1248,10 +1259,10 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip64
-\LTright=\skip65
-\LTpre=\skip66
-\LTpost=\skip67
+\LTleft=\skip73
+\LTright=\skip74
+\LTpre=\skip75
+\LTpost=\skip76
 \LTchunksize=\count151
 \LTcapwidth=\dimen196
 \LT@head=\box55
@@ -1351,7 +1362,7 @@ Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip68
+\labelindent=\skip77
 \enit@outerparindent=\dimen278
 \enit@toks=\toks30
 \enit@inbox=\box61
@@ -1363,12 +1374,12 @@ Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count173
 \calc@Adimen=\dimen279
 \calc@Bdimen=\dimen280
-\calc@Askip=\skip69
-\calc@Bskip=\skip70
+\calc@Askip=\skip78
+\calc@Bskip=\skip79
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count174
-\calc@Cskip=\skip71
+\calc@Cskip=\skip80
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
@@ -1496,7 +1507,7 @@ Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 tly
 (rerunfilecheck)             and the loading of the package is aborted.
 )
-\Hy@SectionHShift=\skip72
+\Hy@SectionHShift=\skip81
 )
 \g__fontspec_family_TimesNewRoman_int=\count187
 .................................................
@@ -1744,6 +1755,9 @@ LaTeX Info: Redefining \nameref on input line 15.
 
 
 
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
 Package hyperref Warning: Option `hyperfootnotes' has already been used,
 (hyperref)                setting the option has no effect on input line 15.
 
@@ -1773,25 +1787,683 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 15.
 l.16  \maketitle
                 
 ? 
-! Emergency stop.
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'LiSu' does not contain script 'CJK'.
+*************************************************
+\g__fontspec_family_LiSu_int=\count272
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font LiSu/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font LiSu/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font LiSu/I (it probably doesn't exist).
+.................................................
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "LiSu" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
 !...............................................  
                                                   
 l.16  \maketitle
                 
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-| Check the spelling, where the font is installed etc. etc.
-| 
-| When in doubt, ask someone for help!
-|...............................................
+? 
 
- 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "LiSu" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.16  \maketitle
+                
+? 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "LiSu" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.16  \maketitle
+                
+? 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "LiSu" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.16  \maketitle
+                
+? 
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'LiSu(0)' created for font 'LiSu' with options
+. [Script={CJK},AutoFakeBold={4}].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"LiSu/OT:"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"LiSu/OT:"- 'bold' (bx/n) with
+. NFSS spec.: <->"LiSu/OT:embolden=4;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"LiSu/OT:embolden=4;"
+.................................................
+! Font EU1/LiSu(0)/m/n/12.05=LiSu/OT: at 12.05pt not loadable: Metric (TFM) fil
+e or installed font not found.
+<to be read again> 
+                   relax 
+l.16  \maketitle
+                
+? 
+Missing character: There is no 参 in font nullfont!
+Missing character: There is no 赛 in font nullfont!
+Missing character: There is no 密 in font nullfont!
+Missing character: There is no 码 in font nullfont!
+! Cannot use \XeTeXglyphbounds with nullfont; not a native platform font.
+\xeCJK_glyph_bounds:NN ...:N \xetex_glyphbounds:D 
+                                                  #1 \xetex_charglyph:D \xeC...
+l.16  \maketitle
+                
+? 
+! Cannot use \XeTeXglyphbounds with nullfont; not a native platform font.
+\xeCJK_glyph_bounds:NN ...:N \xetex_glyphbounds:D 
+                                                  #1 \xetex_charglyph:D \xeC...
+l.16  \maketitle
+                
+? 
+! Missing ) inserted for expression.
+<to be read again> 
+                   \c_one 
+l.16  \maketitle
+                
+? 
+Missing character: There is no ^^A in font nullfont!
+! You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/bound/left/（/tl ...
+                                                  65288\exp_stop_f: \__dim_e...
+l.16  \maketitle
+                
+? 
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ^^C in font nullfont!
+! You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/bound/right/（/tl ...
+                                                  65288\exp_stop_f: \__dim_e...
+l.16  \maketitle
+                
+? 
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ^^A in font Times New Roman/OT:script=latn;langu
+age=DFLT;mapping=tex-text;!
+! You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/bound/left/（/tl ...
+                                                  65288\exp_stop_f: \__dim_e...
+l.16  \maketitle
+                
+? 
+Missing character: There is no ^^C in font Times New Roman/OT:script=latn;langu
+age=DFLT;mapping=tex-text;!
+! You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/bound/right/（/tl ...
+                                                  65288\exp_stop_f: \__dim_e...
+l.16  \maketitle
+                
+? 
+Missing character: There is no （ in font nullfont!
+Missing character: There is no 由 in font nullfont!
+Missing character: There is no 组 in font nullfont!
+Missing character: There is no 委 in font nullfont!
+Missing character: There is no 会 in font nullfont!
+Missing character: There is no 填 in font nullfont!
+Missing character: There is no 写 in font nullfont!
+Missing character: There is no ） in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/rule/right/（/tl 
+l.16  \maketitle
+                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/rule/right/（/tl 
+l.16  \maketitle
+                
+? 
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   h
+l.16  \maketitle
+                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.16  \maketitle
+                
+? 
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   \scan_stop: 
+l.16  \maketitle
+                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \scan_stop: 
+l.16  \maketitle
+                
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/offset/right/（/tl 
+l.16  \maketitle
+                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/offset/right/（/tl 
+l.16  \maketitle
+                
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/glue/right/（/tl 
+l.16  \maketitle
+                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/glue/right/（/tl 
+l.16  \maketitle
+                
+? 
+\g__fontspec_family_STXinwei_int=\count273
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STXinwei/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STXinwei/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STXinwei/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STXinwei(0)' created for font 'STXinwei' with options
+. [Script={CJK},AutoFakeBold={4}].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"STXinwei/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"STXinwei/OT:script=hani;language=DFLT;embolden=4;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+.................................................
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd)
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'STHeiti' does not contain script 'CJK'.
+*************************************************
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STHeiti/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STHeiti/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STHeiti/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STHeiti(0)' created for font 'STHeiti' with options
+. [Script={CJK},AutoFakeBold={4}].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"STHeiti/OT:"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"STHeiti/OT:embolden=4;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+.................................................
+LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/sl' in size <12.05> not 
+available
+(Font)              Font shape `EU1/TimesNewRoman(0)/m/it' tried instead on inp
+ut line 16.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.44998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1
+
+]
+Missing character: There is no 参 in font nullfont!
+Missing character: There is no 赛 in font nullfont!
+Missing character: There is no 密 in font nullfont!
+Missing character: There is no 码 in font nullfont!
+Missing character: There is no （ in font nullfont!
+Missing character: There is no 由 in font nullfont!
+Missing character: There is no 组 in font nullfont!
+Missing character: There is no 委 in font nullfont!
+Missing character: There is no 会 in font nullfont!
+Missing character: There is no 填 in font nullfont!
+Missing character: There is no 写 in font nullfont!
+Missing character: There is no ） in font nullfont!
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/rule/right/（/tl 
+l.16  \maketitle
+                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/rule/right/（/tl 
+l.16  \maketitle
+                
+? 
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   h
+l.16  \maketitle
+                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.16  \maketitle
+                
+? 
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   \scan_stop: 
+l.16  \maketitle
+                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \scan_stop: 
+l.16  \maketitle
+                
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/offset/right/（/tl 
+l.16  \maketitle
+                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/offset/right/（/tl 
+l.16  \maketitle
+                
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/glue/right/（/tl 
+l.16  \maketitle
+                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/12.05/quanjiao/glue/right/（/tl 
+l.16  \maketitle
+                
+? 
+File: logo2.pdf Graphic file (type QTm)
+<use  "logo2.pdf" >
+! Font EU1/LiSu(0)/m/n/22.08249=LiSu/OT: at 22.08249pt not loadable: Metric (TF
+M) file or installed font not found.
+<to be read again> 
+                   relax 
+l.17  \begin{abstract}
+                      
+? 
+Missing character: There is no 摘 in font nullfont!
+Missing character: There is no 要 in font nullfont!
+Missing character: There is no ： in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/22.08249/quanjiao/rule/right/（/tl 
+l.17  \begin{abstract}
+                      
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/22.08249/quanjiao/rule/right/（/tl 
+l.17  \begin{abstract}
+                      
+? 
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   h
+l.17  \begin{abstract}
+                      
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.17  \begin{abstract}
+                      
+? 
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   \scan_stop: 
+l.17  \begin{abstract}
+                      
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \scan_stop: 
+l.17  \begin{abstract}
+                      
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/22.08249/quanjiao/offset/right/（/tl 
+l.17  \begin{abstract}
+                      
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/22.08249/quanjiao/offset/right/（/tl 
+l.17  \begin{abstract}
+                      
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/22.08249/quanjiao/glue/right/（/tl 
+l.17  \begin{abstract}
+                      
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \c__xeCJK/LiSu(0)/m/n/22.08249/quanjiao/glue/right/（/tl 
+l.17  \begin{abstract}
+                      
+? 
+File: gongzhonghao.jpg Graphic file (type QTm)
+<use  "gongzhonghao.jpg" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.44998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 43.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 43.
+
+
+Overfull \hbox (2.57281pt too wide) in paragraph at lines 67--79
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `EU1/STSong(0)/m/sl' in size <12.05> not availab
+le
+(Font)              Font shape `EU1/STSong(0)/m/it' tried instead on input line
+ 80.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.44998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 87.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 87.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 90.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 90.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.44998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+File: figures/1.png Graphic file (type QTm)
+ <use  "figures/1.png" >
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'STSong' does not contain script 'CJK'.
+*************************************************
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STSong/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STSong/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STSong/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STSong(1)' created for font 'STSong' with options
+. [Script={CJK},AutoFakeBold={4}].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"STSong/OT:"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"STSong/OT:embolden=4;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+.................................................
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.44998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5] (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'STFangsong' does not contain script 'CJK'.
+*************************************************
+\g__fontspec_family_STFangsong_int=\count275
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STFangsong/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STFangsong/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STFangsong/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STFangsong(0)' created for font 'STFangsong' with options
+. [Script={CJK},AutoFakeBold={4}].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT:"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"STFangsong/OT:embolden=4;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+.................................................
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.44998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
+ (./example.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 133.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 133.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
+ )
+(\end occurred when \iftrue on line 16 was incomplete) 
 Here is how much of TeX's memory you used:
- 30204 strings out of 493638
- 559291 string characters out of 6144793
- 563258 words of memory out of 5000000
- 33282 multiletter control sequences out of 15000+600000
- 4628 words of font info for 45 fonts, out of 8000000 for 9000
+ 31284 strings out of 493638
+ 578194 string characters out of 6144793
+ 603677 words of memory out of 5000000
+ 34264 multiletter control sequences out of 15000+600000
+ 12213 words of font info for 94 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 72i,1n,79p,10439b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
-No pages of output.
+ 72i,11n,87p,10414b,1607s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on example.pdf (6 pages).
