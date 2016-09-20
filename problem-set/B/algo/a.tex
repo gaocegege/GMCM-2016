@@ -1,0 +1,48 @@
+\documentclass[11pt]{ctexart}  
+\usepackage[top=2cm, bottom=2cm, left=2cm, right=2cm]{geometry}  
+\usepackage{algorithm}  
+\usepackage{algorithmicx}  
+\usepackage{algpseudocode}  
+\usepackage{amsmath}  
+  
+\floatname{algorithm}{算法}  
+\renewcommand{\algorithmicrequire}{\textbf{输入:}}  
+\renewcommand{\algorithmicensure}{\textbf{输出:}}  
+  
+\begin{document}  
+    \begin{algorithm}  
+        \begin{algorithmic}[1] %每行显示行号  
+            \Require    $iEpiModel$位点子集中位点数目，
+                        $PvalueSignificance$统计显著门限值，默认 0.01，
+                        $Largesetsize$两轮搜索子集中 SNP 位点数目，
+                        $Smallsetsize$两轮搜索子集中 SNP 位点数目，
+                        $iAntCount$人工蚂蚁数，
+                        $iItCountLarge$两轮蚁群算法迭代次数，
+                        $iItCountSmall$两轮蚁群算法迭代次数，
+                        $iTopLoci$候选位点数目，
+                        $iTopMode$位点候选子集数目，
+                        $\tau_{0}$每个位点上初始化信息素，
+                        $\rho$蒸发率，
+                        $\alpha$蚂蚁走过某位点时留下的信息素
+            \Ensure P值小于$Pvalue-significance$的位点集合
+            \Function{AntEpiSeeker}{$iEpiModel$, $PvalueSignificance$, $Largesetsize$, $Smallsetsize$, $iAntCount$, $iItCountLarge$, $iItCountSmall$, $iTopLoci$, $iTopMode$, $\tau_{0}$, $\rho$, $\alpha$}
+                \State $setsize\gets Largesetsize$
+                \State $iItCount\gets iItCountLarge$
+                \For{$i = 0 \to iItCount$}  
+                    \State 蚂蚁选择位点集
+                    \State 计算每只蚂蚁选出子集的卡方统计量，更新信息素
+                    \State 记录卡方统计量最高的子集，清除蚂蚁
+                \EndFor 
+                \State 找出所有含有$iEpiModel$个位点的集合并且p值小于$PvalueSignificance$的所有集合  
+                \State $setsize\gets Smallsetsize$
+                \State $iItCount\gets iItCountSmall$
+                \For{$i = 0 \to iItCount$}  
+                    \State 蚂蚁选择位点集
+                    \State 计算每只蚂蚁选出子集的卡方统计量，更新信息素
+                    \State 记录卡方统计量最高的子集，清除蚂蚁
+                \EndFor
+                \State 进行最小化假阳率
+            \EndFunction  
+        \end{algorithmic}  
+    \end{algorithm}  
+\end{document}  

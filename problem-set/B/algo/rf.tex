@@ -1,0 +1,30 @@
+\documentclass[11pt]{ctexart}  
+\usepackage[top=2cm, bottom=2cm, left=2cm, right=2cm]{geometry}  
+\usepackage{algorithm}  
+\usepackage{algorithmicx}  
+\usepackage{algpseudocode}  
+\usepackage{amsmath}  
+  
+\floatname{algorithm}{算法}  
+\renewcommand{\algorithmicrequire}{\textbf{输入:}}  
+\renewcommand{\algorithmicensure}{\textbf{输出:}}  
+  
+\begin{document}  
+    \begin{algorithm}  
+        \begin{algorithmic}[1] %每行显示行号  
+            \Require    $ntree$树的数目
+            \Ensure 预测结果
+            \Function{AntEpiSeeker}{$ntree$}
+                \State 通过自助法(bootstrap)构建大小为n的一个训练集，即重复抽样选择n个训练样例
+                \State 对于刚才新得到的训练集，构建一棵决策树tree
+                \For{$i = 0 \to ntree$}  
+                    \For{$i = 0 \to tree.nodes$}  
+                        \State 通过不重复抽样选择d个特征
+                        \State 利用上面的d个特征，选择某种度量分割节点
+                    \EndFor
+                \EndFor
+                \State 对于每一个测试样例，对ntree颗决策树的预测结果进行投票。票数最多的结果就是随机森林的预测结果。
+            \EndFunction  
+        \end{algorithmic}  
+    \end{algorithm}  
+\end{document}  
